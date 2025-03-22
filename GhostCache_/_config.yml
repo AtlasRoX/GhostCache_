@@ -23,7 +23,7 @@ email: atlasroxedu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   GhostCache_ is a sanctuary for whispers of thought, lost echoes of code, and the poetry of existence. A place where technology meets soul, where literature and logic intertwine like forgotten specters in the archives of time. Here, fleeting musings, technical wonders, and untold stories find refuge—before they fade into the void.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://atlasrox.github.io/GhostCache_/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: @VastVeil 
 github_username:  AtlasRoX
 
